@@ -16,7 +16,10 @@ will not go through and you will be prompted to lower you desired quantity.
 Happy shopping!
  ```
 ### Demos
+#First demo demonstrates the ordering process.
 ![Purchase Demo](img/start.gif)
+#Second demo demonstrates how the IPhone stock quantities are updated from 29 to 25 after the order was placed.
+#Also, the demo demostrates what happens if the order cannot be processed due to low inventory.  
 ![Purchase Demo](img/over.gif)
 
 
